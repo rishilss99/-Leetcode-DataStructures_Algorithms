@@ -1,6 +1,13 @@
 # Leetcode Data Structures & Algorithms
-## Leetcode Explore:
+
+## Leetcode Explore
+
 - Same Tree (Recursion)
--
-## Leetcode Challenge:
--
+
+- Same Tree (Iteration)
+
+- Generate Parentheses
+
+## Leetcode Challenge
+
+- 
