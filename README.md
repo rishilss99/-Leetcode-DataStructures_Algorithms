@@ -1,4 +1,4 @@
-# Leetcode-DataStructures_Algorithms
+# Leetcode Data Structures & Algorithms
 ## Leetcode Explore:
 - Same Tree (Recursion)
 -
