@@ -18,6 +18,12 @@
 
 - Merge Sort
 
+- Quick Sort
+
+- Divide & Conquer
+
+- Backtracking
+
 - Tree Traversal (Recursion)
 
 - Tree Traversal (Iteration)
