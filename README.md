@@ -12,6 +12,10 @@
 
 - Construct Binary Tree from Inorder and Preorder
 
+- Populating Next Right Pointers in Each Node (Iteration)
+
+- Populating Next Right Pointers in Each Node (Recursion)
+
 ## Leetcode Challenge
 
 - Construct Binary Tree from Inorder and Postorder
