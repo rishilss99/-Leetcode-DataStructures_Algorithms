@@ -10,6 +10,8 @@
 
 - Binary Tree Level Order Traversal
 
+- Construct Binary Tree from Inorder and Preorder
+
 ## Leetcode Challenge
 
 - Construct Binary Tree from Inorder and Postorder
