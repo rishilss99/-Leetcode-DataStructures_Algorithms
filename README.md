@@ -24,6 +24,10 @@
 
 ## Important Pseudocode
 
+- Binary First Search (Vanilla)
+
+- Binary First Search (Hashing)
+
 - Queue
 
 - Merge Sort
