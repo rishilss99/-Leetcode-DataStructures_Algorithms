@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Search Binary Tree
+
 - Binary Search Tree Iterator
 
 - Validate Binary Search Tree (Inorder Traversal)
