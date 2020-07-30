@@ -2,6 +2,10 @@
 
 ## Leetcode Explore
 
+- Perfect Squares (Backtracking)
+
+- Perfect Squares (BFS)
+
 - Same Tree (Recursion)
 
 - Same Tree (Iteration)
@@ -24,9 +28,11 @@
 
 ## Important Pseudocode
 
-- Binary First Search (Vanilla)
+- Depth First Search (Recursion)
 
-- Binary First Search (Hashing)
+- Breadth First Search (Vanilla)
+
+- Breadth First Search (Hashing)
 
 - Queue
 
