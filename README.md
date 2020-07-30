@@ -2,6 +2,10 @@
 
 ## Leetcode Explore
 
+- Validate Binary Search Tree (Inorder Traversal)
+
+- Validate Binary Search Tree (Recursion)
+
 - Perfect Squares (Backtracking)
 
 - Perfect Squares (BFS)
