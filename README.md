@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Delete Binary Search Tree
+
 - Insert Binary Search Tree
 
 - Search Binary Search Tree
