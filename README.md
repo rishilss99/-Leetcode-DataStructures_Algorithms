@@ -2,7 +2,9 @@
 
 ## Leetcode Explore
 
-- Search Binary Tree
+- Insert Binary Search Tree
+
+- Search Binary Search Tree
 
 - Binary Search Tree Iterator
 
