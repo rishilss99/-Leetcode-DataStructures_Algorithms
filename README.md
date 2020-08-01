@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Lowest Common Ancestor of Binary Search Tree
+
 - Kth Largest Element in Stream
 
 - Delete Binary Search Tree
