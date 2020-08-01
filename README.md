@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Max Depth N-ary Tree
+
 - Lowest Common Ancestor of Binary Search Tree
 
 - Kth Largest Element in Stream
