@@ -48,6 +48,8 @@
 
 ## Important Pseudocode
 
+- Level Order N-ary Traversal (Iteration)
+
 - Postorder N-ary Tree Traversal (Iteration)
 
 - Postorder N-ary Tree Traversal (Recursion)
@@ -80,8 +82,8 @@
 
 - Inorder Binary Tree Traversal (Iteration)
 
-- Level Order Traversal (Iteration)
+- Level Order Binary Tree Traversal (Iteration)
 
-- Level Order Traversal (Top Down Recursion)
+- Level Order Binary Tree Traversal (Top Down Recursion)
 
-- Leverl Order Traversal (Bottom Up Recursion)
+- Leverl Order Binary Tree Traversal (Bottom Up Recursion)
