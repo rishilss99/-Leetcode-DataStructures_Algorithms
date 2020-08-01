@@ -48,6 +48,12 @@
 
 ## Important Pseudocode
 
+- Postorder N-ary Tree Traversal (Iteration)
+
+- Postorder N-ary Tree Traversal (Recursion)
+
+- Postorder Binary Tree Traversal (Iteration)
+
 - Preorder N-ary Tree Traversal (Iteration)
 
 - Preorder N-ary Tree Traversal (Recursion)
