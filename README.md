@@ -48,6 +48,12 @@
 
 ## Important Pseudocode
 
+- Preorder N-ary Tree Traversal (Iteration)
+
+- Preorder N-ary Tree Traversal (Recursion)
+
+- Preorder Binary Tree Traversal (Iteration)
+
 - Depth First Search (Recursion)
 
 - Breadth First Search (Vanilla)
@@ -64,9 +70,9 @@
 
 - Backtracking
 
-- Tree Traversal (Recursion)
+- Inorder Binary Tree Traversal (Recursion)
 
-- Tree Traversal (Iteration)
+- Inorder Binary Tree Traversal (Iteration)
 
 - Level Order Traversal (Iteration)
 
