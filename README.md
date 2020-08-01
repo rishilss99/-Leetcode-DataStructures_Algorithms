@@ -42,6 +42,10 @@
 
 - Construct Binary Tree from Inorder and Postorder
 
+- Detect Capital (Regex)
+
+- Detect Capital
+
 ## Important Pseudocode
 
 - Depth First Search (Recursion)
