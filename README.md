@@ -44,13 +44,15 @@
 
 ## Leetcode Challenge
 
-- Construct Binary Tree from Inorder and Postorder
+- Power of Four
+
+- Valid Palindrome
 
 - Detect Capital (Regex)
 
 - Detect Capital
 
-- Valid Palindrome
+- Construct Binary Tree from Inorder and Postorder
 
 ## Important Pseudocode
 
