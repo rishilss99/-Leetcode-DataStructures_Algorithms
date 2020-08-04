@@ -48,6 +48,8 @@
 
 - Detect Capital
 
+- Valid Palindrome
+
 ## Important Pseudocode
 
 - Level Order N-ary Traversal (Iteration)
