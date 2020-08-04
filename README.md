@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Map Sum Pairs
+
 - Max Depth N-ary Tree
 
 - Lowest Common Ancestor of Binary Search Tree
@@ -51,6 +53,8 @@
 - Valid Palindrome
 
 ## Important Pseudocode
+
+- Trie Implementation
 
 - Level Order N-ary Traversal (Iteration)
 
