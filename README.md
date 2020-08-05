@@ -46,6 +46,8 @@
 
 ## Leetcode Challenge
 
+- Add and Search Word
+
 - Power of Four
 
 - Valid Palindrome
