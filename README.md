@@ -2,6 +2,10 @@
 
 ## Leetcode Explore
 
+- Desgin Hashmap
+
+- Design Hashset
+
 - Replace Words
 
 - Map Sum Pairs
@@ -45,6 +49,8 @@
 - Circular queue
 
 ## Leetcode Challenge
+
+- Find All Duplicates in an Array
 
 - Add and Search Word
 
