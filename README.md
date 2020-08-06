@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Single Number
+
 - Desgin Hashmap
 
 - Design Hashset
@@ -65,6 +67,8 @@
 - Construct Binary Tree from Inorder and Postorder
 
 ## Important Pseudocode
+
+- Duplicate Elements (Hashset)
 
 - Trie Implementation
 
