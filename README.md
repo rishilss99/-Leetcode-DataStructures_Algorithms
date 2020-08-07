@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Happy Number
+
 - Intersection of Two Arrays
 
 - Single Number
