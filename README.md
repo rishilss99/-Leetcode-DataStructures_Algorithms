@@ -72,7 +72,9 @@
 
 ## Important Pseudocode
 
-- Duplicate Elements (Hashset)
+- Hashmap application
+
+- Hashset application
 
 - Trie Implementation
 
