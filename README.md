@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Minimum Index of Sum of Two Lists
+
 - Isomorphic Strings
 
 - Happy Number
