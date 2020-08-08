@@ -2,6 +2,10 @@
 
 ## Leetcode Explore
 
+- Intersection of Two Arrays II
+
+- First Unique Character in a String
+
 - Minimum Index of Sum of Two Lists
 
 - Isomorphic Strings
