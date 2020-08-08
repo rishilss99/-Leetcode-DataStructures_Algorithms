@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Contains Duplicate II
+
 - Intersection of Two Arrays II
 
 - First Unique Character in a String
@@ -81,6 +83,8 @@
 - Construct Binary Tree from Inorder and Postorder
 
 ## Important Pseudocode
+
+- Hashtable Key design
 
 - Hashmap application
 
