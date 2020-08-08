@@ -60,6 +60,8 @@
 
 ## Leetcode Challenge
 
+- Vertical Order Traversal of Binary Tree
+
 - Find All Duplicates in an Array
 
 - Add and Search Word
