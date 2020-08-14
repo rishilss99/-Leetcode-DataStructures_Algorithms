@@ -2,6 +2,8 @@
 
 ## Leetcode Explore
 
+- Valid Sudoku
+
 - Contains Duplicate II
 
 - Intersection of Two Arrays II
